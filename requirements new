@@ -31,6 +31,9 @@ Pillow==9.0.1
 platformdirs==3.5.1
 polib==1.1.0
 psutil==5.9.5
+ python .\odoo\odoo-bin    -r abdallah -w 123 --addons-path .\odoo\addons\,C:\Users\Spectrum360\Desktop\ERP\o
+doo-15\custome
+
 psycopg2==2.9.6
 pycairo==1.23.0
 pycparser==2.21
